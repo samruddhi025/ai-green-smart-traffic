@@ -91,7 +91,7 @@ source venv/bin/activate
 
 ## Team Members and Contributions
 
-### **[Samruddhi]**
+### **Samruddhi**
 
 **Role: Frontend Developer**
 
